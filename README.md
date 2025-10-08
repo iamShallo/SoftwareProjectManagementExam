@@ -1,1 +1,1 @@
-# SoftwareProjectManagmentExam
+# SoftwareProjectManagementExam
